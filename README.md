@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Manrique 😁
+## Bem-vindo(a) ao perfil do Manrique 😊
 
  <div>
    <a href="https://github.com/manrique-kraus">
